@@ -20,8 +20,8 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
    @Autowired
     public void configureGlobal(AuthenticationManagerBuilder auth) throws Exception {
-       auth.inMemoryAuthentication().passwordEncoder(new BCryptPasswordEncoder()).withUser("zfc").password(new BCryptPasswordEncoder().encode("123456")).roles("USER");
-        //auth.userDetailsService(userService);
+      // auth.inMemoryAuthentication().passwordEncoder(new BCryptPasswordEncoder()).withUser("zfc").password(new BCryptPasswordEncoder().encode("123456")).roles("USER");
+       auth.userDetailsService(userService).passwordEncoder(new BCryptPasswordEncoder());
     }
 
     @Override
