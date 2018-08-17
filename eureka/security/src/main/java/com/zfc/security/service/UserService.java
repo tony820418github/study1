@@ -7,6 +7,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
+import java.util.HashMap;
 import java.util.List;
 
 @Service
@@ -24,5 +25,9 @@ public class UserService implements UserDetailsService {
 
     public List findALLUser() {
         return userMapper.findAllUser();
+    }
+
+    public HashMap findAllUserIntoMap(){
+        return userMapper.findAllUserIntoMap();
     }
 }

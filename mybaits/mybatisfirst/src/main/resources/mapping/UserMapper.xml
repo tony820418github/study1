@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.sh.zfc.mybatisfirst.dao.UserMapper">
+    <resultMap id="BaseResultMap" type="com.sh.zfc.mybatisfirst.entity.User">
+        <id column="id" property="id" jdbcType="INTEGER"/>
+        <result column="username" property="username" jdbcType="VARCHAR"/>
+        <result column="password" property="password" jdbcType="VARCHAR"/>
+        <collection property="blogLists" ofType="com.sh.zfc.mybatisfirst.entity.Blog" column="userid">
+            <id property="blogId" column="blog_id" javaType="int" jdbcType="INTEGER"/>
+            <result property="blogName" column="blog_name" javaType="string" jdbcType="VARCHAR"/>
+        </collection>
+    </resultMap>
+
+    <resultMap id="RoleResultMap" type="com.sh.zfc.mybatisfirst.entity.User">
+        <id column="id" property="id" jdbcType="INTEGER"/>
+        <result column="username" property="username" jdbcType="VARCHAR"/>
+        <result column="password" property="password" jdbcType="VARCHAR"/>
+        <collection property="roleLists"  column="user_id" select="com.sh.zfc.mybatisfirst.dao.UserRoleMapper.getRoleByUserId">
+        </collection>
+    </resultMap>
+
+    <resultMap id="BlogResultMap" type="com.sh.zfc.mybatisfirst.entity.Blog">
+        <id property="blogId" column="blog_id" javaType="int" jdbcType="INTEGER"/>
+        <result property="blogName" column="blog_name" javaType="string" jdbcType="VARCHAR"/>
+        <association property="user" javaType="com.sh.zfc.mybatisfirst.entity.User">
+            <id column="id" property="id"/>
+            <result column="username" property="username" jdbcType="VARCHAR"/>
+            <result column="password" property="password" jdbcType="VARCHAR"/>
+        </association>
+    </resultMap>
+
+
+    <sql id="usercolums">${userTable}.id ,${userTable}.username ,${userTable}.password  </sql>
+
+    <select id="getUserById" parameterType="int" resultMap="BaseResultMap">
+    select u.*  , b.*  from USER u , BLOG b where u.id = b.user_id and u.id=#{id}
+  </select>
+
+    <!--<select id="getUserRoleById" parameterType="int" resultMap="RoleResultMap">-->
+        <!--select *  from USER u where u.id=#{id}-->
+  <!--</select>-->
+
+
+    <select id="getBlog" resultMap="BlogResultMap">
+    select u.*  , b.*  from USER u , BLOG b where u.id = b.user_id and b.blog_id=#{paremeter}
+  </select>
+
+    <select id="getAllUserIntoMap"  resultType="hashmap">
+     select
+        <include refid="usercolums"><property name="userTable" value="user"/></include>
+     from user where user.id=1;
+  </select>
+
+
+</mapper>

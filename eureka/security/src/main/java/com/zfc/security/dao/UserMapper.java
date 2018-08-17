@@ -3,6 +3,7 @@ package com.zfc.security.dao;
 import com.zfc.security.entity.User;
 import org.springframework.security.core.userdetails.UserDetails;
 
+import java.util.HashMap;
 import java.util.List;
 
 public interface UserMapper {
@@ -21,4 +22,6 @@ public interface UserMapper {
     List findAllUser();
 
     User findByUserName(String username);
+
+    HashMap findAllUserIntoMap();
 }

@@ -27,11 +27,78 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LockUserCase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/lock/LockUserCase.java">
+      <file leaf-file-name="SelectSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/sort/SelectSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+            <state relative-caret-position="253">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/sort/InsertSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShellSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/sort/ShellSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="66" lean-forward="true" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShellSortTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sh/zfc/sort/ShellSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="17" selection-start-line="17" selection-end-line="25" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="70" column="21" lean-forward="true" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+              <folding>
+                <element signature="e#5343#5344#0" expanded="true" />
+                <element signature="e#5400#5401#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReflectiveCallable.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertSortTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sh/zfc/sort/InsertSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,95 +106,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConcurrentLinkedQueue.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java">
+      <file leaf-file-name="SelectSortTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sh/zfc/sort/SelectSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3312">
-              <caret line="185" column="54" selection-start-line="185" selection-start-column="54" selection-end-line="185" selection-end-column="54" />
+            <state relative-caret-position="335">
+              <caret line="19" selection-start-line="19" selection-end-line="22" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Map.java">
+      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8004">
-              <caret line="374" column="14" selection-start-line="374" selection-start-column="14" selection-end-line="374" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unsafe.class" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5934">
-              <caret line="303" column="52" selection-start-line="303" selection-start-column="32" selection-end-line="303" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcurrentHashMap.java" pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1046" column="29" selection-start-line="1046" selection-start-column="29" selection-end-line="1046" selection-end-column="29" />
-              <folding>
-                <element signature="e#32334#32335#0" expanded="true" />
-                <element signature="e#32385#32386#0" expanded="true" />
-                <element signature="e#44347#44348#0" expanded="true" />
-                <element signature="e#44395#44396#0" expanded="true" />
-                <element signature="e#65240#65241#0" expanded="true" />
-                <element signature="e#65287#65288#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32453">
-              <caret line="1474" selection-start-line="1474" selection-end-line="1474" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="URLClassLoader.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/net/URLClassLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7176">
-              <caret line="367" selection-start-line="367" selection-end-line="367" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InstrumentationImpl.class" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5451">
-              <caret line="260" selection-start-line="260" selection-end-line="260" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4416">
-              <caret line="233" selection-start-line="233" selection-end-line="233" />
-              <folding>
-                <element signature="e#18578#18579#0" expanded="true" />
-                <element signature="e#18620#18621#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="241">
+              <caret line="599" column="6" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -137,8 +129,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
     </option>
@@ -169,6 +161,15 @@
         <option value="$PROJECT_DIR$/src/test/java/com/sh/zfc/arithmetic/dp/FacotoryLineTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sh/zfc/arithmetic/dp/FacotoryLine.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sh/zfc/lock/LockUserCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sh/zfc/arithmetic/dp/CLS.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sh/zfc/sort/SelectSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sh/zfc/sort/SelectSortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sh/zfc/ParameterType.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sh/zfc/sort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sh/zfc/sort/InsertSortTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sh/zfc/sort/ShellSortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sh/zfc/sort/ShellSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sh/zfc/sort/InsertSort.java" />
       </list>
     </option>
   </component>
@@ -203,7 +204,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -214,8 +215,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,7 +265,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="zfc" type="462c0819:PsiDirectoryNode" />
-              <item name="lock" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="studyjava" type="b2602c69:ProjectViewProjectNode" />
@@ -286,13 +286,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="zfc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zfc" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,7 +311,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eureka" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -311,7 +321,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.sh.zfc.sort" />
       <recent name="com.sh.zfc.arithmetic.dp" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sh.zfc.sort" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -329,36 +343,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LockUserCase">
-    <configuration name="LockSupportTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sh.zfc.lock.LockSupportTest" />
+  <component name="RunManager" selected="JUnit.InsertSortTest.sort">
+    <configuration name="CLS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sh.zfc.arithmetic.dp.CLS" />
       <module name="studyjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sh.zfc.lock.*" />
+          <option name="PATTERN" value="com.sh.zfc.arithmetic.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LockUserCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sh.zfc.lock.LockUserCase" />
+    <configuration name="ParameterType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sh.zfc.ParameterType" />
       <module name="studyjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sh.zfc.lock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="UnsafeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sh.zfc.lock.UnsafeTest" />
-      <module name="studyjava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sh.zfc.lock.*" />
+          <option name="PATTERN" value="com.sh.zfc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -366,19 +369,19 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="FacotoryLineTest.getShortest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="InsertSortTest.sort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="studyjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sh.zfc.arithmetic.dp.*" />
+          <option name="PATTERN" value="com.sh.zfc.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.sh.zfc.arithmetic.dp" />
-      <option name="MAIN_CLASS_NAME" value="com.sh.zfc.arithmetic.dp.FacotoryLineTest" />
-      <option name="METHOD_NAME" value="getShortest" />
+      <option name="PACKAGE_NAME" value="com.sh.zfc.sort" />
+      <option name="MAIN_CLASS_NAME" value="com.sh.zfc.sort.InsertSortTest" />
+      <option name="METHOD_NAME" value="sort" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -389,19 +392,42 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="FacotoryLineTest.getShortest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectSortTest.sort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="studyjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sh.zfc.arithmetic.dp.*" />
+          <option name="PATTERN" value="com.sh.zfc.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.sh.zfc.arithmetic.dp" />
-      <option name="MAIN_CLASS_NAME" value="com.sh.zfc.arithmetic.dp.FacotoryLineTest" />
-      <option name="METHOD_NAME" value="getShortest1" />
+      <option name="PACKAGE_NAME" value="com.sh.zfc.sort" />
+      <option name="MAIN_CLASS_NAME" value="com.sh.zfc.sort.SelectSortTest" />
+      <option name="METHOD_NAME" value="sort" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ShellSortTest.sort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="studyjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sh.zfc.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sh.zfc.sort" />
+      <option name="MAIN_CLASS_NAME" value="com.sh.zfc.sort.ShellSortTest" />
+      <option name="METHOD_NAME" value="sort" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -451,19 +477,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.UnsafeTest" />
-      <item itemvalue="Application.LockSupportTest" />
-      <item itemvalue="JUnit.FacotoryLineTest.getShortest" />
-      <item itemvalue="JUnit.FacotoryLineTest.getShortest1" />
-      <item itemvalue="Application.LockUserCase" />
+      <item itemvalue="Application.CLS" />
+      <item itemvalue="JUnit.SelectSortTest.sort" />
+      <item itemvalue="Application.ParameterType" />
+      <item itemvalue="JUnit.InsertSortTest.sort" />
+      <item itemvalue="JUnit.ShellSortTest.sort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LockUserCase" />
-        <item itemvalue="JUnit.FacotoryLineTest.getShortest1" />
-        <item itemvalue="JUnit.FacotoryLineTest.getShortest" />
-        <item itemvalue="Application.LockSupportTest" />
-        <item itemvalue="Application.UnsafeTest" />
+        <item itemvalue="JUnit.InsertSortTest.sort" />
+        <item itemvalue="JUnit.ShellSortTest.sort" />
+        <item itemvalue="Application.ParameterType" />
+        <item itemvalue="JUnit.SelectSortTest.sort" />
+        <item itemvalue="Application.CLS" />
       </list>
     </recent_temporary>
   </component>
@@ -485,71 +511,76 @@
       <workItem from="1533718118061" duration="13875000" />
       <workItem from="1533805108068" duration="599000" />
       <workItem from="1533815960478" duration="13000" />
+      <workItem from="1534319481466" duration="6540000" />
+      <workItem from="1534382654061" duration="630000" />
+      <workItem from="1534402176318" duration="3651000" />
+      <workItem from="1534409080708" duration="20323000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FacotoryLineTest_getShortest - 2018.08.08 at 17h 13m 40s.xml">
-      <configuration name="FacotoryLineTest.getShortest" configurationId="JUnit" />
+    <history-entry file="ShellSortTest_sort - 2018.08.17 at 14h 47m 57s.xml">
+      <configuration name="ShellSortTest.sort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FacotoryLineTest_getShortest - 2018.08.08 at 17h 13m 46s.xml">
-      <configuration name="FacotoryLineTest.getShortest" configurationId="JUnit" />
+    <history-entry file="ShellSortTest_sort - 2018.08.17 at 14h 49m 11s.xml">
+      <configuration name="ShellSortTest.sort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FacotoryLineTest_getShortest - 2018.08.08 at 17h 13m 58s.xml">
-      <configuration name="FacotoryLineTest.getShortest" configurationId="JUnit" />
+    <history-entry file="ShellSortTest_sort - 2018.08.17 at 14h 49m 18s.xml">
+      <configuration name="ShellSortTest.sort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FacotoryLineTest_getShortest - 2018.08.08 at 17h 36m 13s.xml">
-      <configuration name="FacotoryLineTest.getShortest" configurationId="JUnit" />
+    <history-entry file="ShellSortTest_sort - 2018.08.17 at 14h 49m 32s.xml">
+      <configuration name="ShellSortTest.sort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FacotoryLineTest_getShortest - 2018.08.08 at 17h 36m 41s.xml">
-      <configuration name="FacotoryLineTest.getShortest" configurationId="JUnit" />
+    <history-entry file="ShellSortTest_sort - 2018.08.17 at 14h 50m 06s.xml">
+      <configuration name="ShellSortTest.sort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FacotoryLineTest_getShortest - 2018.08.08 at 17h 36m 59s.xml">
-      <configuration name="FacotoryLineTest.getShortest" configurationId="JUnit" />
+    <history-entry file="ShellSortTest_sort - 2018.08.17 at 14h 50m 21s.xml">
+      <configuration name="ShellSortTest.sort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FacotoryLineTest_getShortest - 2018.08.08 at 17h 39m 14s.xml">
-      <configuration name="FacotoryLineTest.getShortest" configurationId="JUnit" />
+    <history-entry file="ShellSortTest_sort - 2018.08.17 at 14h 55m 19s.xml">
+      <configuration name="ShellSortTest.sort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FacotoryLineTest_getShortest - 2018.08.08 at 17h 40m 48s.xml">
-      <configuration name="FacotoryLineTest.getShortest" configurationId="JUnit" />
+    <history-entry file="ShellSortTest_sort - 2018.08.17 at 14h 55m 26s.xml">
+      <configuration name="ShellSortTest.sort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FacotoryLineTest_getShortest - 2018.08.08 at 17h 41m 47s.xml">
-      <configuration name="FacotoryLineTest.getShortest" configurationId="JUnit" />
+    <history-entry file="ShellSortTest_sort - 2018.08.17 at 14h 55m 37s.xml">
+      <configuration name="ShellSortTest.sort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FacotoryLineTest_getShortest1 - 2018.08.08 at 17h 44m 04s.xml">
-      <configuration name="FacotoryLineTest.getShortest1" configurationId="JUnit" />
+    <history-entry file="InsertSortTest_sort - 2018.08.17 at 17h 10m 19s.xml">
+      <configuration name="InsertSortTest.sort" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37722000" />
+    <option name="totallyTimeSpent" value="68866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.15618336" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17973857" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34640524" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17750533" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18443497" />
       <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2701525" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39542484" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -578,138 +609,25 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
-          <line>1010</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/sh/zfc/arithmetic/dp/CLS.java</url>
+          <line>70</line>
           <properties />
-          <option name="timeStamp" value="13" />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/sh/zfc/sort/SelectSortTest.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="14" />
+      <option name="time" value="36" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/thread/WaitTimeout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/thread/ThreadLocalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/thread/threadlocal/MyThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/thread/threadlocal/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2507">
-          <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/thread/WaitNotify.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/thread/ThreadLocalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/thread/threadlocal/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10051">
-          <caret line="485" selection-start-line="485" selection-end-line="485" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4163">
-          <caret line="181" column="22" selection-start-line="181" selection-start-column="22" selection-end-line="181" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="989">
-          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/thread/threadlocal/MyThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="989">
-          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10051">
-          <caret line="485" selection-start-line="485" selection-end-line="485" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1012">
@@ -798,9 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -808,9 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -839,13 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/arithmetic/dp/FacotoryLine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -990,28 +895,158 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/arithmetic/dp/FacotoryLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/arithmetic/dp/CLS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/arithmetic/dp/BestFindTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="1010" selection-start-line="1010" selection-end-line="1010" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/lock/LockUserCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#466#483#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/ParameterType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#406#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="1459" column="31" selection-start-line="1459" selection-start-column="21" selection-end-line="1459" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="1046" column="29" selection-start-line="1046" selection-start-column="29" selection-end-line="1046" selection-end-column="29" />
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="599" column="6" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
           <folding>
-            <element signature="e#32334#32335#0" expanded="true" />
-            <element signature="e#32385#32386#0" expanded="true" />
-            <element signature="e#44347#44348#0" expanded="true" />
-            <element signature="e#44395#44396#0" expanded="true" />
-            <element signature="e#65240#65241#0" expanded="true" />
-            <element signature="e#65287#65288#0" expanded="true" />
+            <element signature="e#5343#5344#0" expanded="true" />
+            <element signature="e#5400#5401#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="70" column="21" lean-forward="true" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sh/zfc/sort/SelectSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="19" selection-start-line="19" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sh/zfc/sort/ShellSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="17" selection-start-line="17" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sh/zfc/sort/InsertSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/sort/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/sort/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sh/zfc/sort/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="66" lean-forward="true" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
         </state>
       </provider>
     </entry>
