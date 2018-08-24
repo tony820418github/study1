@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.sh.zfc.mybatisframework.dao.IBaseDao">
+    <!-- 局部新增 -->
+    <insert id="addLocal">
+        ${value}
+    </insert>
+
+    <!--&lt;!&ndash; 整体新增 &ndash;&gt;-->
+    <!--<insert id="add">-->
+        <!--${value}-->
+    <!--</insert>-->
+
+    <!--&lt;!&ndash; 根据ID查询单个 &ndash;&gt;-->
+    <!--<select id="getById" resultType="hashmap">-->
+        <!--${value}-->
+    <!--</select>-->
+
+    <!--&lt;!&ndash; 根据ID查询单个字段 &ndash;&gt;-->
+    <!--<select id="getFieldById" resultType="hashmap">-->
+        <!--${value}-->
+    <!--</select>-->
+
+    <!--&lt;!&ndash; 根据条件查询单个 &ndash;&gt;-->
+    <!--<select id="getByParm" resultType="hashmap">-->
+        <!--${value}-->
+    <!--</select>-->
+
+    <!--&lt;!&ndash; 根据条件查询单个字段 &ndash;&gt;-->
+    <!--<select id="getFieldByParm" resultType="hashmap">-->
+        <!--${value}-->
+    <!--</select>-->
+
+    <!--&lt;!&ndash; 条件查询列表 &ndash;&gt;-->
+    <!--<select id="selectList" resultType="hashmap">-->
+        <!--${value}-->
+    <!--</select>-->
+
+    <!--&lt;!&ndash; 条件查询字段列表 &ndash;&gt;-->
+    <!--<select id="selectListField" resultType="hashmap">-->
+        <!--${value}-->
+    <!--</select>-->
+
+    <!--&lt;!&ndash; 更新局部 &ndash;&gt;-->
+    <!--<update id="updateLocal">${value}</update>-->
+
+    <!--&lt;!&ndash; 更新全部 &ndash;&gt;-->
+    <!--<update id="update">${value}</update>-->
+
+    <!--&lt;!&ndash; 条件更新局部 &ndash;&gt;-->
+    <!--<update id="updateLocalByPram">${value}</update>-->
+
+    <!--&lt;!&ndash; 条件更新全部 &ndash;&gt;-->
+    <!--<update id="updateByPram">${value}</update>-->
+
+
+    <!--&lt;!&ndash; 根据ID删除 &ndash;&gt;-->
+    <!--<delete id="deleteById">-->
+        <!--${value}-->
+    <!--</delete>-->
+
+    <!--&lt;!&ndash; 批量删除 &ndash;&gt;-->
+    <!--<delete id="deleteByparm">-->
+        <!--${value}-->
+    <!--</delete>-->
+
+    <!--&lt;!&ndash; 自定义语句查询 &ndash;&gt;-->
+    <!--<select id="selectBySql" resultType="hashmap">-->
+        <!--${value}-->
+    <!--</select>-->
+
+    <!--&lt;!&ndash; 自定义语句执行 &ndash;&gt;-->
+    <!--<update id="excuse">${value}</update>-->
+
+
+    <!--&lt;!&ndash; 查询符合条件的数量 &ndash;&gt;-->
+    <!--<select id="selectCountByParm" resultType="Long">-->
+        <!--${value}-->
+    <!--</select>-->
+
+
+    <!--&lt;!&ndash; 查询总数量 &ndash;&gt;-->
+    <!--<select id="selectCount" resultType="Long">-->
+        <!--${value}-->
+    <!--</select>-->
+
+    <!--&lt;!&ndash; 内查询 &ndash;&gt;-->
+    <!--<select id="selectIn" resultType="hashmap">-->
+        <!--${value}-->
+    <!--</select>-->
+
+    <!--&lt;!&ndash; 获取下一个序列的值 &ndash;&gt;-->
+    <!--<select id="fetchSeqNextval" resultType="Long" flushCache="true">-->
+        <!--${value}-->
+    <!--</select>-->
+</mapper>
